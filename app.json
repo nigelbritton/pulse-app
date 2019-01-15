@@ -1,0 +1,6 @@
+{
+  "name": "NodeJS - Express / Handlebars Boilerplate",
+  "description": "",
+  "repository": "https://github.com/nigelbritton/nodejs-express-handlebars-boilerplate",
+  "keywords": ["node", "express", "handlebars"]
+}
