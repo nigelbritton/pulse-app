@@ -1,6 +1,6 @@
 {
   "name": "NodeJS - Express / Handlebars Boilerplate",
   "description": "",
-  "repository": "https://github.com/nigelbritton/nodejs-express-handlebars-boilerplate",
+  "repository": "https://github.com/nigelbritton/pulse-app",
   "keywords": ["node", "express", "handlebars"]
 }
